@@ -1,0 +1,8 @@
+{
+  "name": "Assistly",
+  "description": "AI-telefoniste voor loodgieters, elektriciens en installateurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
